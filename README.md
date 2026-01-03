@@ -18,12 +18,7 @@ This project analyzes how features like **City, Size, Furnishing Status, and Ten
 ## 📈 Modeling Strategy
 * **Exploratory Data Analysis:** Visualizing distributions, city-wise trends, and feature correlations.
 * **Linear Regression:** Building a baseline model to predict the dependent variable (Rent).
-* **Recommendations:** Suggested Log Transformation to handle right-skewed data and addressing multicollinearity between Size and BHK.
 
-## 🚀 Future Work
-* Implement Advanced Regressors (Random Forest, XGBoost).
-* Advanced Outlier Detection to handle luxury properties.
-* Feature engineering for "Price per Sqft".
 
 ---
 Developed by [Sahil Dawale]
